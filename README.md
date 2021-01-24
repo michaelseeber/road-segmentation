@@ -38,7 +38,7 @@ This project is based on Python 3.7 and Tensorflow (tested with version 2.2). Th
 - Pillow==7.2.0
 - skimage==0.0
 
-### How to run on Leonhard (ETHZ GPU cluster)
+#### How to run on Leonhard (ETHZ GPU cluster)
 ```
 ssh <nethz-name>@login.leonhard.ethz.ch
 module load gcc/6.3.0 python_gpu/3.7.4 hdf5/1.10.1
