@@ -2,12 +2,10 @@
 
 # Road Segmentation from Aerial images
 
-## Report
-The written report can be found [here](https://www.kaggle.com/c/cil-road-segmentation-2020/).
-
-## Code
-
 This repo containts the projects source code of Bastian Morath, Daniel Peter, Michael Seeber and Kam-Ming Mark Tam which is part of a Kaggle competition that is available under [this link](https://www.kaggle.com/c/cil-road-segmentation-2020/).
+
+## Report
+The written report can be found [here](https://github.com/michaelseeber/road-segmentation/blob/main/report.pdf).
 
 ## Project structure
 
@@ -23,7 +21,7 @@ Following list describes the directories and their use:
 
 In order to run this project following requirements need to be met.
 
-## Environment Setup
+### Environment Setup
 
 This project is based on Python 3.7 and Tensorflow (tested with version 2.2). Therefore the environment needs to be set up with following packages:
 
@@ -38,7 +36,7 @@ This project is based on Python 3.7 and Tensorflow (tested with version 2.2). Th
 - Pillow==7.2.0
 - skimage==0.0
 
-### How to run on Leonhard
+### How to run on Leonhard (ETHZ GPU cluster)
 ```
 ssh <nethz-name>@login.leonhard.ethz.ch
 module load gcc/6.3.0 python_gpu/3.7.4 hdf5/1.10.1
