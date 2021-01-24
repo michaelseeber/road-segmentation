@@ -1,0 +1,16 @@
+*.swp
+/logs/*
+*.cpython-37.pyc
+*.pyc
+/__pycache__/*
+models/mark/unet_gan/logs/
+testing/test_images_as_npy.npy
+testing/test_images_keys.p
+/training
+*.v2
+*.pb
+*.gz
+sandboxes/michi/predictions/*
+*h5
+*npz
+/morphed
