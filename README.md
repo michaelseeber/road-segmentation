@@ -1,13 +1,15 @@
 ![](https://github.com/michaelseeber/road-segmentation/blob/main/overlays.png)
 
-# Road Segmentation from Aerial images
+# Blending Generative and Discriminative U-nets for Road Segmentation of Aerial Images
 
-This repo containts the projects source code of Bastian Morath, Daniel Peter, Michael Seeber and Kam-Ming Mark Tam which is part of a Kaggle competition that is available under [this link](https://www.kaggle.com/c/cil-road-segmentation-2020/).
+This repo containts source code of Bastian Morath, Daniel Peter, Michael Seeber and Kam-Ming Mark Tam for ariel road segmentation. The project is part of the Computational Intelligence Lab 2020 course at ETH Zurich and also a Kaggle competition available under [this link](https://www.kaggle.com/c/cil-road-segmentation-2020/).
 
-## Report
-The written report can be found [here](https://github.com/michaelseeber/road-segmentation/blob/main/report.pdf).
+## Paper
+The accompanying paper describing our solution can be found [here](https://github.com/michaelseeber/road-segmentation/blob/main/report.pdf).
 
-## Project structure
+## Code
+
+### Project structure
 
 Following list describes the directories and their use:
 
@@ -17,11 +19,11 @@ Following list describes the directories and their use:
 | models             | This folder contains the source code for our main models used in the report               |
 | backlog| Contains various things that were developed and used during the process of this project, but not really needed anymore |
 
-## Prerequisites
+### Prerequisites
 
 In order to run this project following requirements need to be met.
 
-### Environment Setup
+#### Environment Setup
 
 This project is based on Python 3.7 and Tensorflow (tested with version 2.2). Therefore the environment needs to be set up with following packages:
 
