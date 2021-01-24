@@ -1,13 +1,13 @@
-![](https://github.com/michaelseeber/road-segmentation/overlays.png)
+![](https://github.com/michaelseeber/road-segmentation/blob/main/overlays.png)
 
 # Road Segmentation from Aerial images
 
-##Report
+## Report
 The written report can be found [here](https://www.kaggle.com/c/cil-road-segmentation-2020/).
 
-##Code
+## Code
 
-This is the projects source code of Bastian Morath, Daniel Peter, Michael Seeber and Kam-Ming Mark Tam which is part of a Kaggle competition that is available under [this link](https://www.kaggle.com/c/cil-road-segmentation-2020/).
+This repo containts the projects source code of Bastian Morath, Daniel Peter, Michael Seeber and Kam-Ming Mark Tam which is part of a Kaggle competition that is available under [this link](https://www.kaggle.com/c/cil-road-segmentation-2020/).
 
 ## Project structure
 
